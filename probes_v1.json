@@ -1,0 +1,14 @@
+{
+  "Copula": {
+    "kendall_tau": 0.0185,
+    "gain": "Detects non-linear rank dependence"
+  },
+  "ExtremeValue": {
+    "shape": 1.4032,
+    "gain": "Identifies black-swan study outliers"
+  },
+  "SteinShrinkage": {
+    "mean_shrunk": 0.817,
+    "gain": "Reduces total MSE in evidence voids"
+  }
+}

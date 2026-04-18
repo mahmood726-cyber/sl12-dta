@@ -1,0 +1,38 @@
+{
+  "10_GameTheory": {
+    "nash_payoff": 0.5659
+  },
+  "11_Exergy": {
+    "evidence_exergy": 0.1399
+  },
+  "12_Causal": {
+    "transport_cost": 0.2662
+  },
+  "1_Copula": {
+    "tau": -0.5428
+  },
+  "2_EVT": {
+    "shape": 0.597
+  },
+  "3_Stein": {
+    "shrunk_mean": 0.6823
+  },
+  "4_Wavelets": {
+    "noise_reduction": 0.0091
+  },
+  "5_Dirichlet": {
+    "island_density": 0.2249
+  },
+  "6_Bottleneck": {
+    "mi_compression": 0.4017
+  },
+  "7_Persistence": {
+    "cluster_lifetime": 0.1312
+  },
+  "8_Quantum": {
+    "quantum_entropy": -0.1558
+  },
+  "9_Fisher": {
+    "fisher_curvature": 5.4528
+  }
+}
